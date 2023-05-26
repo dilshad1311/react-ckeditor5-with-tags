@@ -1,8 +1,7 @@
-# react-ckeditor5-with-tags
+# react-editor
 
 > CKEditor5 with tags insert from dropdown
 
-[![NPM](https://img.shields.io/npm/v/react-ckeditor5-with-tags.svg)](https://www.npmjs.com/package/ckeditor5-with-tags) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
@@ -41,5 +40,5 @@ const TextEditor = ({value, onChange, label, required, disabled, error, tags, re
 
 ## Screenshot
 
-![img](https://raw.githubusercontent.com/alex90badea/react-ckeditor5-with-tags/master/screenshot.jpg)
+
 
